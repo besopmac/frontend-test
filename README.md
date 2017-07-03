@@ -1,36 +1,34 @@
 # Teste Front-end - Amil
 Projeto de teste para seleção de candidatos(as) a desenvolvedor(a) Front-end na Amil.
 
-Este teste contém dois desafios:
-- O primeiro serve para avaliar seu **HTML**, **CSS**, semântica, boas práticas, etc.  
-- O segundo para avaliar o seu **JavaScript**.  
+Este teste tem como desafio:
+- Criar uma página web da home logada do site Amil, para isso será necessário todo o trabalho de Front-End apenas. Necessário fazer uma leitura de um arquivo JSON para colocar os telefone de atendimento da Amil dinamicamente.
 
 ## Instruções
-Faça um fork do projeto, realize seu teste e ao finalizar, solicite um pull request.
+- Faça um fork do projeto
+- Realize seu teste
+- Finalizar
+- Solicite um pull request.
 
-## Desafio n° 1
-1.- Criar o HTML/CSS de acordo com o layout base fornecido no diretório [layout](./layout).
+OBS: Os teste só serão aceito com o pull request aberto, então não crie um projeto em seu perfil e nós envie o teste.
 
-No arquivo [primeiro-desafio.md](./primeiro-desafio.md) se encontram todos os dados necessários para que você possa fazer esta parte do teste.
+## Desafio
+- Crie um projeto para dar início ao novo site Amil, com base no layout.
 
 ### Observações
-- Vamos avaliar o seu nível de conhecimento em HTML5, CSS3, semântica, webstandars e boas práticas. Não se esqueça de seguir o básico sobre usabilidade e acessibilidade.
-- Você pode utilizar pré-processadores (nós usamos `Sass`), _task manager_ (nós usamos Grunt) e qualquer ferramenta que otimize o seu trabalho. Não esqueça de criar um README com as instruções para fazer tudo funcionar.
-- Pode seguir qualquer code standard/guide/style ou somente bom senso, mas seja consistente em sua decisão.
+- Vamos avaliar o seu nível de conhecimento em HTML5, CSS3, semântica, webstandars, usabilidade, acessibilidade e boas práticas.
+- Você pode utilizar pré-processadores, task runners, NPM, NodeJs ou qualquer frameworks javaScript que ajude no seu desenvolvimento.
+- Pode seguir qualquer code standard/guide/style.
 - Não é permitido o uso de frameworks CSS como Bootstrap, Semantic UI, Foundation ou similares e nem o uso de geradores como Yeoman. Nós queremos ver o **seu** código.
+- Não esqueça de criar um README com as instruções para fazer tudo funcionar.
 - Não tenha pressa! Iremos avaliar a qualidade do seu código. Faça seu melhor!.
 
-## Desafio n° 2
-1.- Criar um formulário com 3 campos para cadastro de contatos   
-2.- Mostrar os contatos cadastrados em uma lista na mesma página  
-
-No arquivo [segundo-desafio.md](./segundo-desafio.md) se encontram todos os dados e regras necessárias para que possa fazer esta parte do teste.
-
-### Observações
-- Vamos avaliar o seu nível de conhecimento com `JavaScript`, funcionamento adequado do formulário, qualidade de código e boas práticas.
-- Pode seguir qualquer code standard/guide/style ou somente bom senso, mas seja consistente em sua decisão.
-- Somente é permitido o uso de JavaScript, jQuery ou AngularJS.
-- Não precisa aplicar nenhum layout, mas esperamos que o seu HTML seja no mínimo semântico e acessível.
-- Capriche no código. A ideia é que você invista aproximadamente 1 hora nesta parte do teste.
+### Observações importantes
+- Mobile first;
+- Utilize Pré-copiladores CSS: SASS, STYLUS;
+- Utilize Angular ou React como framework javaScript para leitura do JSON;
+- Utilize o NPM como seu gerenciador de pacotes;
+- Utilize Task Runners, por exemplo GULP;
+- Priorize a semântica HTML e CSS limpo e coerente, lembre: - é +;
 
 *Boa sorte!*
