@@ -1,0 +1,84 @@
+{
+    "atendimento": {
+		"categorias": [
+            {
+                "title": "Central de servicos",
+                "descricao" : "Informações sobre rede credenciada, coberturas contratadas, reembolso, segunda via de boletos e demais solicitações:",
+                "telefones": [
+                    {
+                        "descricao": "Capitais e regiões metropolitanas:",
+                        "telefone": "3004-1000"
+                    },
+                    {
+                        "descricao": "Demais localidades:",
+                        "telefone": "0800-706-2363"
+                    }
+                ]
+            },
+            {
+                "title": "Central de marcação de consultas e exames (rede Amil)",
+                "descricao" : "Central nacional de atendimento Amil",
+                "telefones": [
+                    {
+                        "descricao": "Central nacional: (segunda a sexta-feira, das 6h às 21h):",
+                        "telefone": "3003-1333"
+                    }
+                ]
+            },
+            {
+                "title": "SAC",
+                "descricao" : "Reclamações, informações institucionais e cancelamento:",
+                "telefones": [
+                    {
+                        "descricao": "SAC",
+                        "telefone": "0800-021-2583"
+                    },
+                    {
+                        "descricao": "SAC Planos Amil Livre Escolha:",
+                        "telefone": "0800-021-2662"
+                    },
+                    {
+                        "descricao": "Deficientes Auditivos:",
+                        "telefone": "0800-021-1001"
+                    },
+                    {
+                        "descricao": "SAC Porto Blue:",
+                        "telefone": "0800-021-2349"
+                    }
+                ]
+            },
+            {
+                "title": "Teleatendimento empresarial",
+                "descricao" : "Central de atendimento para empresas:",
+                "telefones": [
+                    {
+                        "descricao": "Capitais e Regiões Metropolitanas:",
+                        "telefone": "3003-1332"
+                    },
+                    {
+                        "descricao": "Demais Localidades:",
+                        "telefone": "0800-703-9800"
+                    }
+                ]
+            },
+            {
+                "title": "Apoio ao corretor",
+                "descricao" : "Central de apoio para corretores:",
+                "telefones": [
+                    {
+                        "descricao": "SP:",
+                        "telefone": "(11) 4689-8363"
+                    },
+                    {
+                        "descricao": "MG:",
+                        "telefone": "(31) 3316-1094"
+                    },
+                    {
+                        "descricao": "RJ, Norte e Nordeste:",
+                        "telefone": "3004-1022"
+                    }
+                ]
+            }
+        ]
+    }
+}
