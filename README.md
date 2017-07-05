@@ -1,19 +1,17 @@
 # Teste Front-end - Amil
 Projeto de teste para seleção de candidatos(as) a desenvolvedor(a) Front-end na Amil.
 
-Este teste tem como desafio:
-- Criar uma página web da home logada do site Amil, para isso será necessário todo o trabalho de Front-End apenas. Necessário fazer uma leitura de um arquivo JSON para colocar os telefone de atendimento da Amil dinamicamente.
+## O Desafio
+- Criar uma página web da home logada do site Amil, conforme layout fornecido neste repositório.
+- Para o carregamento dos telefones da Central de Atendimento Amil, será fornecido um arquivo JSON(atendimento.json) com os dados dos telefones, será necessário fazer a leitura do JSON para listar os dados dentro do Accordion.
 
 ## Instruções
-- Faça um fork do projeto
-- Realize seu teste
-- Finalizar
-- Solicite um pull request.
+- Faça o clone do projeto para o seu ambiente local;
+- Realize o desenvolvimento do projeto;
+- Relizando os commits e faça push do projeto;
+- Crie um pull request;
 
-OBS: Os teste só serão aceito com o pull request aberto, então não crie um projeto em seu perfil e nós envie o teste.
-
-## Desafio
-- Crie um projeto para dar início ao novo site Amil, com base no layout.
+OBS: O teste só será aceito com o **pull request aberto**, então **não** crie um projeto em seu perfil do GitHub e nós envie o teste.
 
 ### Observações
 - Vamos avaliar o seu nível de conhecimento em HTML5, CSS3, semântica, webstandars, usabilidade, acessibilidade e boas práticas.
@@ -23,12 +21,12 @@ OBS: Os teste só serão aceito com o pull request aberto, então não crie um p
 - Não esqueça de criar um README com as instruções para fazer tudo funcionar.
 - Não tenha pressa! Iremos avaliar a qualidade do seu código. Faça seu melhor!.
 
-### Observações importantes
+### Dicas :)
 - Mobile first;
 - Utilize Pré-copiladores CSS: SASS, STYLUS;
 - Utilize Angular ou React como framework javaScript para leitura do JSON;
 - Utilize o NPM como seu gerenciador de pacotes;
-- Utilize Task Runners, por exemplo GULP;
+- Utilize Task Runners: GULP;
 - Priorize a semântica HTML e CSS limpo e coerente, lembre: - é +;
 
 *Boa sorte!*
