@@ -11,7 +11,7 @@ Projeto de teste para seleção de candidatos(as) a desenvolvedor(a) Front-end n
 - Relizando os commits e faça push do projeto;
 - Crie um pull request;
 
-OBS: O teste só será aceito com o **pull request aberto**, então **não** crie um projeto em seu perfil do GitHub e nós envie o teste.
+OBS: O teste só será aceito com o **pull request aberto**, então **não** crie um projeto em seu perfil do GitHub e nos envie o teste.
 
 ### Observações
 - Vamos avaliar o seu nível de conhecimento em HTML5, CSS3, semântica, webstandars, usabilidade, acessibilidade e boas práticas.
